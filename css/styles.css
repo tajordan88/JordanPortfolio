@@ -1,0 +1,28 @@
+body {
+	background-color: #1E1E1E;
+	/* Moves the Navbar down from top of page */
+	padding-top: 3em;
+	padding-bottom: 5em;
+}
+
+
+/* Edits to the Navbar */
+.navbar {
+	width: 102%;
+	margin-left: -1em;
+}
+
+
+.header {
+	margin-bottom: 2em;
+}
+
+
+/* Edits to Portfolio Page */
+.img {
+	text-align: center;
+}
+
+
+
+
